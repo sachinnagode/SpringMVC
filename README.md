@@ -1,1 +1,1 @@
-# SpringMVC
+# QueryM
